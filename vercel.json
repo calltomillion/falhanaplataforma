@@ -5,7 +5,7 @@
       "dest": "/premium.html"
     },
     {
-      "src": "/jogueagora",
+      "src": "/normalizado",
       "dest": "/falha.html"
     }
   ]
