@@ -9,8 +9,12 @@
       "dest": "/falha.html"
     },
     {
-      "src": "/grupos",
-      "dest": "/redirect.html"
+      "src": "/grupo",
+      "dest": "/grupo.html"
+    },
+    {
+      "src": "/suporte",
+      "dest": "/suporte.html"
     }
   ]
 }
