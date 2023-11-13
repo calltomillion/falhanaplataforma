@@ -15,6 +15,10 @@
     {
       "src": "/suporte",
       "dest": "/suporte.html"
+    },
+    {
+      "src": "/pixde2mil",
+      "dest": "/pixde2mil.html"
     }
   ]
 }
