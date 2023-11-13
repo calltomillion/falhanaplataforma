@@ -7,6 +7,10 @@
     {
       "src": "/normalizado",
       "dest": "/falha.html"
+    },
+    {
+      "src": "/grupos",
+      "dest": "/redirecionador.html"
     }
   ]
 }
